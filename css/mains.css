@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#zaidi{
+text-decoration: none;
+color: black;
+}
+#contact{
+    margin-top: 25px;
+}
+#services{
+    margin-top: 90px;
+}
+.google-map {
+    padding-bottom: 50%;
+    position: relative;
+  }
+  
+  .google-map iframe {
+    height: 100%;
+    width: 100%;
+    left: -50;
+    top: 0;
+    position: absolute;
+  }
+  #btnsub{
+    margin-top: 15px;
+    margin-bottom: 15px;
+  padding: 100px;
+  align-items: center;
+  }
+  .google-map {
+    padding-bottom: 50%;
+    position: relative;
+  }
+  
+  .google-map iframe {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+   margin-bottom: 100%;
+  }
+#Logo{
+  font-size: 2rem;
+  font-family: cursive;
+  font-weight: 500;
+  margin-top: 7px;
+  margin-bottom: -5px;
+  display: flex;
+}
+#foter{
+  margin-top: 100px;
+}
